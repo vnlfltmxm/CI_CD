@@ -1,0 +1,7 @@
+C:\Users\qkr38\CI_CD\CI_CD\CI_CD\bin\Debug\CI_CD.exe.config
+C:\Users\qkr38\CI_CD\CI_CD\CI_CD\bin\Debug\CI_CD.exe
+C:\Users\qkr38\CI_CD\CI_CD\CI_CD\bin\Debug\CI_CD.pdb
+C:\Users\qkr38\CI_CD\CI_CD\CI_CD\obj\Debug\CI_CD.csproj.AssemblyReference.cache
+C:\Users\qkr38\CI_CD\CI_CD\CI_CD\obj\Debug\CI_CD.csproj.CoreCompileInputs.cache
+C:\Users\qkr38\CI_CD\CI_CD\CI_CD\obj\Debug\CI_CD.exe
+C:\Users\qkr38\CI_CD\CI_CD\CI_CD\obj\Debug\CI_CD.pdb

@@ -10,6 +10,28 @@ namespace CI_CD
     {
         static void Main(string[] args)
         {
+            Program main = new Program();
+            main.PrintWard("hi");
+            main.PrintWard("every",false);
+            main.PrintWard(" one");
         }
+
+        private void PrintWard(string ward, bool isWriteLine = true)
+        {
+            if (isWriteLine)
+            {
+                Console.WriteLine(ward);
+
+            }
+            else
+            {
+                Console.Write(ward);
+            }
+        }
+            
     }
+
+
+
+   
 }
