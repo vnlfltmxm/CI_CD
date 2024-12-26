@@ -33,7 +33,7 @@ namespace CI_CD
         {
 
         }
-        private void test2()
+        private void test3()
         {
 
         }
